@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luiza.rosalba@gmail.com
+	name = Luiza Rosalba
